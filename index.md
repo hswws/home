@@ -1,37 +1,74 @@
-## Welcome to GitHub Pages
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title沝忒酒斗罗引导主页zte.icu</title>
+		<meta name="keywords" content="zte呢！">
+        <meta name="description" content="zte呢！">
+        <link rel="shortcut icon" href="favicon.ico">
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="css/main.css" />
+		<noscript><link rel="stylesheet" href="css/noscript.css" /></noscript>
+	</head>
+	<body onselectstart="return false" oncontextmenu=self.event.returnValue=false> 
 
-You can use the [editor on GitHub](https://github.com/hswws/home/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+		<!-- Wrapper -->
+			<div id="wrapper">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+				<!-- Header -->
+					<header id="header">
+						<div class="logo">
 
-### Markdown
+							<font size="8">ZTE</font>						</div>
+						<div class="content">
+							<div class="inner">
+								<h1>沝忒.zte.icu - </h1>
+								<p>zte.icu</p>
+							</div>
+						</div>
+						<nav>
+							<ul>
+								<li><a href="http://zte.icu" target="_blank"><i class="fa fa-home"></i>首页</a></li>
+								<li><a href="http://zte.icu" target="_blank"><i class="fa fa-qq"></i>zte</a></li>
+								<li><a href="http://zte.icu"target="_blank"><i class="fa fa-weibo"></i>zte</a></li>
+								<li><a href="https://github.com/hswws" target="_blank"><i class="fa fa-github"></i>hswws</a></li>
+								<li><a href="http://dl.zte.icu" target="_blank"><i class="fa fa-heart-o"></i>斗罗插件页</a></li>
+								<li><a href="https://jq.qq.com/?_wv=1027&k=5eUkXJC"target="_blank"><i class="fa fa-comments-o"></i>网络交流群</a></li>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+								
+							</ul>
+						</nav>
+					</header>
 
-# Header 1
-## Header 2
-### Header 3
+				<!-- Footer -->
+					<footer id="footer">
+						<p class="copyright">©2018 <a href="http://www.zite.wang/" target="_blank">沝忒</a> 版权所有</p>
 
-- Bulleted
-- List
+					</footer>
 
-1. Numbered
-2. List
+			</div>
 
-**Bold** and _Italic_ and `Code` text
+		<!-- BG -->
+			<div id="bg"></div>
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hswws/home/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+		<!-- Scripts -->
+			<script src="js/jquery.min.js" ></script>
+			<script src="js/skel.min.js" ></script>
+			<script src="js/util.js" ></script>
+			<script src="js/main.js" ></script>
+            <script src="js/su.js"></script>
+            <script type="text/javascript">jQuery(document).ready(function($){
+               $('body').wpSuperSnow({
+    flakes: ['./img/snow0.gif', './img/snow0.gif', './img/snow0.gif', './img/snow0.gif', './img/snow0.gif', './img/snow0.gif', './img/snow0.gif', './img/snow0.gif', ],
+    totalFlakes: '90',
+    zIndex: '999999',
+    maxSize: '30',
+    maxDuration: '20',
+    useFlakeTrans: false
+});
+});
+</script>
+	<audio id="mom" src="1.mp3" autoplay="autoplay" loop="-1" preload="auto" type="audio/mp3"></audio>
+	</body>
+</html>
